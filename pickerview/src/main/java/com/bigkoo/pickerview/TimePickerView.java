@@ -40,6 +40,7 @@ public class TimePickerView extends BasePickerView implements View.OnClickListen
     private String Str_Cancel;//取消按钮字符串
     private String Str_Title;//标题字符串
 
+
     private int Color_Submit;//确定按钮颜色
     private int Color_Cancel;//取消按钮颜色
     private int Color_Title;//标题颜色
